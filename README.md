@@ -1,4 +1,4 @@
-# P1_CUC13271B2_X
+# P1_CUC13271B2_02230132029
 
 # Punto 1
 1. Cálculo de Factorial: Escriba un programa en Java que calcule el factorial de un número entero `n` ingresado por el usuario. El programa debe utilizar un bucle para realizar el cálculo. Asegúrese de que el programa maneje correctamente los casos de borde, como el factorial de 0.
